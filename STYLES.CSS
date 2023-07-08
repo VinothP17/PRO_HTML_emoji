@@ -1,0 +1,104 @@
+
+.container
+{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(229, 233, 25);
+    margin-left: 50px;
+    margin-top: 30px;
+    padding: 50px;
+    border-radius:50%;
+    box-shadow: 10px 10px 10px;
+}
+
+
+.reye
+{
+    border: 2px rgb(241, 234, 234);
+    height: 20px;
+    width: 23px;
+    background-color: black;
+    border-radius: 200%;
+    position:fixed;
+    top: 83px;
+    left:110px;
+   
+}
+
+.re{
+    border: 2px rgb(245, 242, 242);
+    height: 10px;
+    width: 10px;
+    background-color: rgb(224, 210, 210);
+    border-radius: 50%;
+    position:fixed;
+    top: 90px;
+    left:115px;
+}
+
+
+.leye
+{
+    border: 2px black;
+    height: 20px;
+    width: 22px;
+    background-color: black;
+    border-radius: 300%;
+    position:fixed;
+    top: 85px;
+    right: 1150px;vscode-file://vscode-app/c:/Users/YOU%20ARE/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html
+}
+
+
+.le
+{
+border: 2px rgb(247, 239, 239);
+height: 10px;
+width: 10px;
+background-color: rgb(241, 224, 224);
+border-radius: 300%;
+position:fixed;
+top: 93px;
+right: 1155px;
+}
+
+.mouth
+{
+    border: 1px solid black;
+
+    height: 30px;
+    width: 120px;
+    background-color: rgb(236, 91, 65);
+    position: absolute;
+    top: 150px;
+    left:101px;
+    border-radius: 0px 0px 45px 45px;
+    overflow:  hidden;
+    
+}
+
+
+.teeth
+{
+    border: 1px solid black;
+    height: 10px;
+    width: 100px;
+    background-color: rgb(247, 237, 245);
+    position: absolute;
+    top: 00px;
+    left:11px;
+    border-radius:0px 0px 30px 30px ;
+}
+
+.teeth1
+{
+    border: 1px solid black;
+    height: 10px;
+    width: 70px;
+    background-color: rgb(226, 217, 221);
+    position: absolute;
+    top: 20px;
+    left:25px;
+    border-radius:10px 10px 0px 0px ;
+}
